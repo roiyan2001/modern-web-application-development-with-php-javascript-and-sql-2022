@@ -36,4 +36,5 @@ class Product{
     public function info()
     {
         return $this->id . ":" . $this->name;
-    }}
+    }
+}
